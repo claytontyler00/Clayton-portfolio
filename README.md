@@ -4,9 +4,7 @@ My portfolio is a responsive, multi page portfolio for made using the [Bootstrap
 
 ## Preview
 
-[![UX Portfolio Preview](https://claytontyler.com)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
+[![UX Portfolio Preview](www.claytontyler.com)
 
 ## Status
 
