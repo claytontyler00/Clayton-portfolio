@@ -1,6 +1,6 @@
 # [Clayton Tyler - UX Portfolio](https://claytontyler.com)
 
-My portfolio is a responsive, multi page portfolio for made using the [Bootstrap](http://getbootstrap.com/) framework and is based off the theme from Blackrock Digital.
+My portfolio is a responsive, multi page portfolio made using the [Bootstrap](http://getbootstrap.com/) framework and is based off the theme from Blackrock Digital.
 
 ## Status
 
