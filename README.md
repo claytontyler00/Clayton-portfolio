@@ -1,10 +1,10 @@
 # [Clayton Tyler - UX Portfolio](https://claytontyler.com)
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+My portfolio is a responsive, multi page portfolio for made using the [Bootstrap](http://getbootstrap.com/) framework and is based off the theme from Blackrock Digital.
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+[![UX Portfolio Preview](https://claytontyler.com)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
 
