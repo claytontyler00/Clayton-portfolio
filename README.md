@@ -4,7 +4,7 @@ My portfolio is a responsive, multi page portfolio for made using the [Bootstrap
 
 ## Preview
 
-[![UX Portfolio Preview](https://www.claytontyler.com)
+[![ UX Portfolio Preview](https://www.claytontyler.com)
 
 ## Status
 
